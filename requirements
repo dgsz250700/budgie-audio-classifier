@@ -1,0 +1,8 @@
+numpy
+librosa
+scikit-learn
+tensorflow
+fastapi
+uvicorn
+python-multipart
+joblib
